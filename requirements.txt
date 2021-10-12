@@ -91,7 +91,6 @@ diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/wor
 distlib==0.3.1
 distributed @ file:///C:/ci/distributed_1605066635297/work
 distro==1.5.0
-dlib @ file:///C:/Users/ROHITSANAM/Downloads/face_recog_dlib_file-master/face_recog_dlib_file-master/dlib-19.19.0-cp38-cp38-win_amd64.whl
 docker==4.4.4
 docutils==0.16
 dotnetcore2==2.1.21
